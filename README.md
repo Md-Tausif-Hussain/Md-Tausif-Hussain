@@ -1,7 +1,10 @@
 
 # 💫 About Me:
-👋 Hi, I’m @Md-Tausif-Hussain<br><br>Currently i am doing BCA from UEM Kolkata.<br><br>I am interested in making my career in Software Development.<br><br>I have a decent communication skills.
-
+👋 Hi, I’m @Md-Tausif-Hussain<br><br>
+🎓 I’m currently pursuing a Bachelor of Computer Applications (BCA) from UEM Kolkata.<br><br>
+💻 I’m passionate about building a career in Software Development and continuously enhancing my skills in programming and problem-solving.<br><br>
+🗣️ I have strong communication skills and enjoy working collaboratively in team environments.<br><br>
+🚀 Always eager to learn, grow, and contribute to meaningful projects!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mdtausifhussain/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mdtausifhussain.dev@gmail.com) 
