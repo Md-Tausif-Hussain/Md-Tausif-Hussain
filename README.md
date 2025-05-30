@@ -1,9 +1,9 @@
 
 # 💫 About Me:
-👋 Hi, I’m @Md-Tausif-Hussain<br><br>
-🎓 I’m currently pursuing a Bachelor of Computer Applications (BCA) from UEM Kolkata.<br><br>
-💻 I’m passionate about building a career in Software Development and continuously enhancing my skills in programming and problem-solving.<br><br>
-🗣️ I have strong communication skills and enjoy working collaboratively in team environments.<br><br>
+👋 Hi, I’m @Md-Tausif-Hussain<br>
+🎓 I’m currently pursuing a Bachelor of Computer Applications (BCA) from UEM Kolkata.<br>
+💻 I’m passionate about building a career in Software Development and continuously enhancing my skills in programming and problem-solving.<br>
+🗣️ I have strong communication skills and enjoy working collaboratively in team environments.<br>
 🚀 Always eager to learn, grow, and contribute to meaningful projects!
 
 ## 🌐 Socials:
