@@ -3,7 +3,7 @@
 🎓 I have completed my Bachelor of Computer Applications (BCA) from the University of Engineering & Management, Kolkata (Batch 2022–2025).<br>
 💻 I’m passionate about building a career in Software Development and continuously enhancing my skills in programming and problem-solving.<br>
 🗣️ I have strong communication skills and enjoy working collaboratively in team environments.<br>
-🚀 Always eager to learn, grow, and contribute to meaningful projects;;;
+🚀 Always eager to learn, grow, and contribute to meaningful projects.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mdtausifhussain/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mdtausifhussain.dev@gmail.com) 
