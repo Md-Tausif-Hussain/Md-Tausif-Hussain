@@ -7,7 +7,6 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mdtausifhussain/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mdtausifhussain.dev@gmail.com) 
-
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Md-Tausif-Hussain.Md-Tausif-Hussain)
 
 
