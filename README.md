@@ -5,6 +5,14 @@
 🗣️ I have strong communication skills and enjoy working collaboratively in team environments.<br>
 🚀 Always eager to learn, grow, and contribute to meaningful projects.<br>
 
+## 🎓 Education
+
+**Bachelor of Computer Applications (BCA)**  
+University of Engineering & Management, Kolkata  
+📅 August 2022 – July 2025  
+🏅 CGPA: 8.81
+
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mdtausifhussain/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mdtausifhussain.dev@gmail.com) 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Md-Tausif-Hussain.Md-Tausif-Hussain)
