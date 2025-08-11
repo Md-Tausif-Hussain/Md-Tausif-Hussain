@@ -14,8 +14,14 @@ University of Engineering & Management, Kolkata
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mdtausifhussain/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mdtausifhussain.dev@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mdtausifhussain/) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mdtausifhussain.dev@gmail.com)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23000000.svg?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Tausif_21/)  
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%2300C800.svg?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/tausifh21/)  
+[![Unstop](https://img.shields.io/badge/Unstop-%230073e6.svg?style=for-the-badge&logo=google&logoColor=white)](https://unstop.com/u/Tausif_21)  
+
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Md-Tausif-Hussain.Md-Tausif-Hussain)
+
 
 
 # 💻 Tech Stack:
