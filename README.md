@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @Md-Tausif-Hussain.<br>
+👋 Hi, I’m **@Md-Tausif-Hussain**.<br>
 🎓 I have completed my Bachelor of Computer Applications (BCA) from the University of Engineering & Management, Kolkata (Batch 2022–2025).<br>
 💻 I’m passionate about building a career in Software Development and continuously enhancing my skills in programming and problem-solving.<br>
 🗣️ I have strong communication skills and enjoy working collaboratively in team environments.<br>
@@ -10,7 +10,7 @@
 **Bachelor of Computer Applications (BCA)**  
 University of Engineering & Management, Kolkata  
 📅 August 2022 – July 2025  
-🏅 CGPA: 8.81
+🏅 **CGPA: 8.81**
 
 
 ## 🌐 Socials:
