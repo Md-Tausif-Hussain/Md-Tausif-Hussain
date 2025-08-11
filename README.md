@@ -4,8 +4,6 @@
 💻 I’m passionate about building a career in Software Development and continuously enhancing my skills in programming and problem-solving.<br>
 🗣️ I have strong communication skills and enjoy working collaboratively in team environments.<br>
 🚀 Always eager to learn, grow, and contribute to meaningful projects.<br>
-✨ 🎉 🚀 Keep Coding! ✨ 🎉 🚀
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mdtausifhussain/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mdtausifhussain.dev@gmail.com) 
@@ -25,6 +23,8 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Md-Tausif-Hussain&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+<br>✨ 🎉 🚀 Keep Coding! ✨ 🎉 🚀<br>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Md-Tausif-Hussain&icon=0&color=0)](https://visitcount.itsvg.in)
