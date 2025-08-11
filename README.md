@@ -5,6 +5,38 @@
 🗣️ I have strong communication skills and enjoy working collaboratively in team environments.<br>
 🚀 Always eager to learn, grow, and contribute to meaningful projects.
 
+<!-- Falling Stars SVG Animation -->
+<p align="center">
+  <svg width="100%" height="100" viewBox="0 0 100 20" preserveAspectRatio="xMidYMid meet" style="background: transparent;">
+    <defs>
+      <circle id="star" cx="2" cy="2" r="1" fill="white" />
+      <circle id="smallStar" cx="1" cy="1" r="0.5" fill="white" />
+      <animate id="fall" attributeName="cy" values="0;20" dur="5s" repeatCount="indefinite" />
+    </defs>
+    <use xlink:href="#star" x="10" y="0" >
+      <animate attributeName="cy" values="0;20" dur="4s" begin="0s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="1;0" dur="4s" begin="0s" repeatCount="indefinite" />
+    </use>
+    <use xlink:href="#smallStar" x="25" y="0" >
+      <animate attributeName="cy" values="0;20" dur="5s" begin="1s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="1;0" dur="5s" begin="1s" repeatCount="indefinite" />
+    </use>
+    <use xlink:href="#star" x="50" y="0" >
+      <animate attributeName="cy" values="0;20" dur="4.5s" begin="2s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="1;0" dur="4.5s" begin="2s" repeatCount="indefinite" />
+    </use>
+    <use xlink:href="#smallStar" x="75" y="0" >
+      <animate attributeName="cy" values="0;20" dur="4.2s" begin="3s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="1;0" dur="4.2s" begin="3s" repeatCount="indefinite" />
+    </use>
+    <use xlink:href="#star" x="90" y="0" >
+      <animate attributeName="cy" values="0;20" dur="3.8s" begin="4s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="1;0" dur="3.8s" begin="4s" repeatCount="indefinite" />
+    </use>
+  </svg>
+</p>
+
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mdtausifhussain/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mdtausifhussain.dev@gmail.com) 
 
