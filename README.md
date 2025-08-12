@@ -8,8 +8,8 @@
 ## 🎓 Education
 
 **Bachelor of Computer Applications (BCA)**  
-University of Engineering & Management, Kolkata  
-📅 August 2022 – July 2025  
+**University of Engineering & Management, Kolkata**  
+📅 **August 2022 – July 2025**  
 🏅 **CGPA: 8.81**
 
 
