@@ -14,20 +14,13 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mdtausifhussain/) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mdtausifhussain.dev@gmail.com)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23000000.svg?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Tausif_21/)  
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%2300C800.svg?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/tausifh21/)  
-[![Unstop](https://img.shields.io/badge/Unstop-%230073e6.svg?style=for-the-badge&logo=google&logoColor=white)](https://unstop.com/u/Tausif_21)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mdtausifhussain/) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mdtausifhussain.dev@gmail.com)  [![LeetCode](https://img.shields.io/badge/LeetCode-%23000000.svg?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Tausif_21/)  [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%2300C800.svg?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/tausifh21/)  [![Unstop](https://img.shields.io/badge/Unstop-%230073e6.svg?style=for-the-badge&logo=google&logoColor=white)](https://unstop.com/u/Tausif_21)  ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Md-Tausif-Hussain.Md-Tausif-Hussain)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Md-Tausif-Hussain.Md-Tausif-Hussain)
-
-
-
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-# 📊 GitHub Stats:
+ 
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Md-Tausif-Hussain&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Md-Tausif-Hussain&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Tausif-Hussain&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
