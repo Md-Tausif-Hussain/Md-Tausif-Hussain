@@ -10,7 +10,7 @@
 **Bachelor of Computer Applications (BCA)**  
 **University of Engineering & Management, Kolkata**  
 📅 **August 2022 – July 2025**  
-🏅 **CGPA: 8.81**
+🏅 **CGPA: 8.81 | Percentage:80.6%**
 
 ## 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
