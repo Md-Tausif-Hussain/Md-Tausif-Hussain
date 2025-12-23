@@ -7,6 +7,10 @@
 
 ## 🎓 Education
 
+**Master of Computer Applications (MCA)**                                             
+**Netaji Subhash Engineering College (NSEC), Kolkata**                                                        
+📅 **August 2025 – July 2027**                                                              
+
 **Bachelor of Computer Applications (BCA)**  
 **University of Engineering & Management, Kolkata**  
 📅 **August 2022 – July 2025**  
