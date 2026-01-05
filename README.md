@@ -2,7 +2,7 @@
 👋 Hi, I’m **@Md-Tausif-Hussain**.<br>
 🎓 Currently pursuing **MCA@NSEC Kolkata(2025-27).**                                             
 🎓 I have completed my **Bachelor of Computer Applications (BCA) from the University of Engineering & Management, Kolkata (Batch 2022–2025).** <br>
-💻 I’m passionate about building a career in Software Development and continuously enhancing my skills in programming and problem-solving.<br>
+💻 I’m passionate about building a career in **Software Development** and continuously enhancing my skills in programming and problem-solving.<br>
 🗣️ I have strong communication skills and enjoy working collaboratively in team environments.<br>
 🚀 Always eager to learn, grow, and contribute to meaningful projects.<br>
 
