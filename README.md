@@ -8,7 +8,7 @@
 
 ## 🎓 Education
 
-## **Master of Computer Applications (MCA)**                                             
+**Master of Computer Applications (MCA)**                                             
 **Netaji Subhash Engineering College (NSEC), Kolkata**                                                        
 📅 **August 2025 – July 2027**                                                              
 
