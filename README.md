@@ -1,4 +1,4 @@
-#**💫 About Me:**
+# 💫 About Me:
 👋 Hi, I’m **@Md-Tausif-Hussain**.<br>
 🎓 Currently pursuing **MCA@NSEC Kolkata(2025-27).**                                             
 🎓 I have completed my **Bachelor of Computer Applications (BCA) from the University of Engineering & Management, Kolkata (Batch 2022–2025).** <br>
