@@ -1,6 +1,6 @@
 # 💫 About Me:
 **👋** Hi, I’m **@Md-Tausif-Hussain**.<br>
-🎓 Currently pursuing **MCA@NSEC Kolkata(2025-27).**                                             
+🎓 Currently pursuing **MCA @ NSEC Kolkata (2025–27).**                                             
 🎓 I have completed my **Bachelor of Computer Applications (BCA) from the University of Engineering & Management, Kolkata (Batch 2022–2025).** <br>
 💻 I’m passionate about building a career in **Software Development** and continuously enhancing my skills in **programming and problem-solving.** <br>
 🗣️ I have strong **communication** skills and enjoy working collaboratively in team environments.<br>
@@ -15,7 +15,7 @@
 **Bachelor of Computer Applications (BCA)**  
 **University of Engineering & Management, Kolkata**  
 📅 **August 2022 – July 2025**  
-🏅 **CGPA:8.81 | Percentage:80.6%**
+🏅 **CGPA: 8.81 | Percentage: 80.6%**
 
 ## 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
